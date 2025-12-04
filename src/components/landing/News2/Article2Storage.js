@@ -335,6 +335,70 @@ export const articles = [
     <p style=";; margin-bottom: 1rem;">Farmers are left in limbo, anxiously awaiting results and hoping that the outbreak can be contained before it causes even more damage to their livelihoods. “It’s hard to plan for the future when you don’t even know what’s coming next,” said Harrison. “We just want some answers.”</p>
   
     <p style=";; margin-bottom: 1rem;">As the investigation continues, all eyes remain on the affected regions, hoping for a swift resolution to the mystery illness that has thrown the agricultural industry into uncertainty.</p>`
+  },
+  // Added articles 12/4/2025
+  {
+    title: "Headlight Recall: New Federal Regulation Exposes Genesis's Digital Rigidity",
+    description: "A new federal safety mandate requiring advanced illumination consistency has forced Genesis Company to recall its headlight systems, proving the Company's fragmented Digital Thread is too rigid to adapt to dynamic regulatory changes.",
+    image: `${basePath}Img/News2Img/Articles/Global-Landscape-of-Automotive-Compliance.webp`,
+    slug: "genesis-headlight-recall-regulatory-rigidity",
+    date: "10/28/2025",
+    author: "By Jordan Lee, Business Technology Writer",
+    content: `
+
+      <p style="margin-bottom: 1rem;"><strong>Rendon, TX –</strong> <strong>Genesis Company</strong> has issued a critical recall for its automotive Headlight systems, not due to an inherent manufacturing flaw, but because the product line cannot comply with a newly enacted federal safety mandate governing illumination consistency and adaptive dimming response. This recall, the third catastrophic setback this year, confirms a critical structural weakness: Genesis's fragmented digital system is too rigid and slow to adapt to dynamic regulatory and market changes on a global scale.</p>
+
+      <p style="margin-bottom: 1rem;">The new rule, which affects DOT and SAE J583 compliance, required a rapid re-<strong>simulation</strong> and redesign of the control software and optics. However, Genesis’s reliance on manual data handoffs and a laborious validation process—a systemic issue causing lost control of data—meant the Company was unable to update, document, and certify its design before the compliance deadline. The result is a mandatory, expensive recall, even though the component met previous ECE R112/R87 standards.</p>
+
+      <h2 style="font-size: 2rem; margin-top: 2rem; margin-bottom: 1rem;">The Cost of Slow Redesign and Poor Documentation</h2>
+
+      <p style="margin-bottom: 1rem;">The failure to adapt is a direct consequence of the internal friction that plagues Genesis. Without a seamless Digital Thread, updating the design required intensive manual checks across multiple engineering silos and external validation reports, forcing a long redesign process that competitors completed in a fraction of the time.</p>
+
+      <p style="margin-bottom: 1rem;">“Our creative employees are brilliant, but their designs are trapped in outdated workflows,” commented COO Eliza Reed. “We couldn't quickly prove that our modified design met the new rule because our simulation documentation wasn't instantly traceable back to the single source of truth. This regulatory inertia, rooted in poor data governance, is now an existential threat that compromises our adherence to ISO/TS 16949.”</p>
+
+      <h3 style="font-size: 1.5rem; margin-top: 1.5rem; margin-bottom: 0.5rem;">Competitors Gain Global Advantage</h3>
+
+      <p style="margin-bottom: 1rem;">While Genesis struggles with internal resistance from its creative employees and mounting regulatory fines, competitors like Centurion are leveraging AI-driven PLM to guarantee instant compliance with DOT and ECE standards. This allows rivals to win larger OEM business by eliminating the long redesign process and ensuring flawless certification worldwide.</p>
+
+      <h2 style="font-size: 2rem; margin-top: 2rem; margin-bottom: 1rem;">Benchmarking Siemens: The Standard for Adaptability</h2>
+
+      <p style="margin-bottom: 1rem;">Genesis leadership is intensifying its study of Siemens AG’s operational structure and advanced digital platforms, such as Siemens NX and Simcenter. The Company views Siemens' digital maturity as the absolute benchmark for survival. Genesis must now accelerate its roadmap to implement the rigorous documentation and simulation traceability required to meet the demands of ISO/TS 16949 and restore faith in its ability to produce safety-critical systems.</p>
+
+      <p style="margin-bottom: 1rem;">“Our focus must be on achieving the level of digital integrity that eliminates all data handoff risks and allows us to consistently meet global automotive standards without relying on luck,” stated CTO Mark Chen.</p>
+    `
+  },
+  {
+    title: "Regulatory Whiplash: How New Federal Demands Are Forcing Genesis's Digital Reckoning",
+    description: "Escalating federal mandates across aerospace, medical, and automotive sectors are exposing Genesis Company’s fragmented digital infrastructure, forcing leadership to invest in a unified Digital Thread to meet compliance demands.",
+    image: `${basePath}Img/News2Img/Articles/ISO13485png.png`,
+    slug: "genesis-regulatory-whiplash-digital-reckoning",
+    date: "11/14/2025",
+    author: "By Jordan Lee, Business Technology Writer",
+    content: `
+
+      <p style="margin-bottom: 1rem;"><strong>Rendon, TX –</strong> <strong>Genesis Company</strong>, the entire era of operating with siloed data and bespoke workflows is over. The recent cascade of recalls across its FADEC, Ventilator, and Headlight lines—each stemming from the failure to manage data against strict <strong>regulatory</strong> requirements—has demonstrated that adapting to new federal and global mandates is impossible without a complete digital overhaul. Genesis leadership is now positioning the push for a cohesive <strong>Digital Thread</strong> not as a cost, but as the only path to achieving compliance and market viability.</p>
+
+      <p style="margin-bottom: 1rem;"><strong>Alan Michaels, CEO</strong>, an expert in aerospace engineering, underscored the gravity of the shift: "We used to lead through individual talent and custom design, but today, regulators demand proof that the entire process is traceable and validated. Our fragmented system simply cannot deliver that evidence, which puts every new product at risk."</p>
+
+      <h2 style="font-size: 2rem; margin-top: 2rem; margin-bottom: 1rem;">The Federal Mandate for Traceability</h2>
+
+      <p style="margin-bottom: 1rem;">The complexity of modern products, from LED headlights requiring <strong>DOT</strong> certification to life-critical ventilators demanding <strong>global medical device standards</strong>, means regulators are now targeting the digital process itself. The mandates require demonstrable, automated links between the initial <strong>simulation</strong> model and the final component. This directly exposes Genesis's vulnerability:</p>
+
+      <ul style="margin-left: 2rem; margin-bottom: 1rem; list-style-type: disc;">
+          <li style="margin-bottom: 0.5rem;"><strong>Simulation Documentation Gap:</strong> The failure to link <strong>simulation</strong> data to the <strong>single source of truth</strong> prevents the immediate generation of auditable reports, compromising compliance under <strong>ISO/TS 16949</strong>.</li>
+          <li style="margin-bottom: 0.5rem;"><strong>Manufacturing Disconnect:</strong> The problem of <strong>incorrect data reaching the shop floor</strong>—a violation of quality management—is a direct result of manual handoffs that fail under the pressure of <strong>long redesign processes</strong> required by new mandates.</li>
+      </ul>
+
+      <h2 style="font-size: 2rem; margin-top: 2rem; margin-bottom: 1rem;">Strategic Investment in Digital Maturity</h2>
+
+      <p style="margin-bottom: 1rem;">The strategic response is being spearheaded by <strong>Elizabeth Redding, CTO</strong>, who leads the adoption of advanced computational tools, and <strong>Brian Matthews, CFO</strong>, who is restructuring the Company's capital plan to support the digital transformation. The goal is to enforce the <strong>documentation</strong> standards necessary to satisfy regulators and eliminate the hidden costs of failure.</p>
+
+      <p style="margin-bottom: 1rem;">"You cannot cut corners on compliance. Every manual step is a liability," stated CFO Matthews. "Our competitors are winning <strong>larger OEM business</strong> because they guarantee compliance. We are investing aggressively in our digital foundation to match the standard set by <strong>Siemens AG</strong>, whose integrated platforms represent the level of traceability required to compete in <strong>global sales</strong>."</p>
+
+      <h3 style="font-size: 1.5rem; margin-top: 1.5rem; margin-bottom: 0.5rem;">The Challenge to Creative Employees</h3>
+
+      <p style="margin-bottom: 1rem;"><strong>Abby Smith, Chief Design Engineer</strong>, noted that the new rules must redefine the role of the engineering team: “The new digital rules are tough, but they ultimately protect our <strong>creative employees</strong> by ensuring their brilliant designs—developed in environments like <strong>Siemens NX</strong>—are flawlessly translated to manufacturing. Our focus, led by <strong>Jan Wilcox, Global Director of Manufacturing Engineering</strong>, is now on process automation and quality assurance to eliminate the data flaws that have plagued us.”</p>
+    `
   }
   
 
